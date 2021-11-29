@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VxasTVyTR0XBPkToqd+KK9s2Cc0/vOhm+uAk8NuwpyHNV0MHEZTfTLCtHb5Iw+k0NdyCh/or9clM5fwSQmlUEw==",
+  "dgSpecHash": "46ko8x+amDjEqcKHetzq4zlmGelFFoCKUCJjomx3OuNwPIDSjDTDDKtX0rVyKHpvIKc5g21AFmJPRQsQIagWPA==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
+  "projectFilePath": "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

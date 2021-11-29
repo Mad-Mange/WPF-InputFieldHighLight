@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj": {}
+    "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj": {}
   },
   "projects": {
-    "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj": {
+    "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
+        "projectUniqueName": "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
         "projectName": "WpfHighLightInputTaBort",
-        "projectPath": "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
-        "packagesPath": "C:\\Users\\magnus.eriksson\\.nuget\\packages\\",
-        "outputPath": "C:\\Temp\\wd\\Source\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort\\obj\\",
+        "projectPath": "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\WpfHighLightInputTaBort.csproj",
+        "packagesPath": "C:\\Users\\madhe\\.nuget\\packages\\",
+        "outputPath": "C:\\Temp\\SrcTemp\\WPF-InputFieldHighLight\\WpfHighLightInputTaBort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\magnus.eriksson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\madhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

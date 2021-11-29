@@ -46,7 +46,7 @@ namespace WpfHighLightInputTaBort.ViewModels
             set
             {
                 _pathTrue = value;
-                OnPropertyChanged("PathTrue");
+                OnPropertyChanged(nameof(PathTrue));
             }
         }
     }
